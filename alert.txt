@@ -1,0 +1,4 @@
+<div class="message-box message-danger" id="alert">
+<span class="close" onclick="CloseMsg('alert')">&times;</span>
+Your Question is submitted sucessfully.
+</div>
